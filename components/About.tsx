@@ -54,7 +54,7 @@ export default function About() {
             className="bg-black/40 backdrop-blur-md p-6 md:p-8 rounded-2xl border border-white/10 hover:border-[#E50914]/50 transition-all shadow-2xl"
           >
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl text-white">
-              Holistique Book
+              Holistique Books
             </h2>
             <div className="w-20 h-1 bg-[#E50914] mt-4 mb-4" />
             <p className="text-lg text-gray-200 leading-relaxed">
