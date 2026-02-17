@@ -58,8 +58,7 @@ export default function About() {
             </h2>
             <div className="w-20 h-1 bg-[#E50914] mt-4 mb-4" />
             <p className="text-lg text-gray-200 leading-relaxed">
-              Nous croyons en la puissance des mots pour éveiller les consciences. 
-              Notre mission est d&apos;accompagner les auteurs spirituels avec intégrité et authenticité.
+              Nous croyons en la puissance des mots pour transformer les vies. Notre mission est d'accompagner les auteurs avec intégrité et excellence.
             </p>
 
             {/* Valeurs */}
