@@ -93,7 +93,7 @@ export default function AuDelaDuTemplePage() {
                       Acheter sur Amazon
                     </a>
                     <a
-                      href="https://wa.me/243XXXXXXXX?text=Bonjour%2C%20je%20souhaite%20acheter%20le%20livre%20Au-delà%20du%20temple"
+                      href="https://wa.me/243812463366?text=Bonjour%2C%20je%20souhaite%20acheter%20le%20livre%20Au-delà%20du%20temple"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center gap-2 bg-green-600 text-white px-4 py-3 rounded-lg font-medium hover:bg-green-700 transition-all shadow-lg"
