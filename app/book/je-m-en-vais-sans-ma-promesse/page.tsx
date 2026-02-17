@@ -50,7 +50,7 @@ export default function JeMEnVaisSansMaPromessePage() {
                   </div>
                   <div className="mt-6 flex flex-col gap-3">
                     <a href="https://amazon.fr/dp/XXXXXX4" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 bg-[#E50914] text-white px-4 py-3 rounded-lg font-medium hover:bg-[#b00710] transition-all shadow-lg"><ShoppingCart size={20} /> Acheter sur Amazon</a>
-                    <a href="https://wa.me/243XXXXXXXX?text=Bonjour%2C%20je%20souhaite%20acheter%20le%20livre%20Je%20m'en%20vais%20sans%20ma%20promesse" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 bg-green-600 text-white px-4 py-3 rounded-lg font-medium hover:bg-green-700 transition-all shadow-lg"><MessageCircle size={20} /> Commander sur WhatsApp</a>
+                    <a href="https://wa.me/243977602740?text=Bonjour%2C%20je%20souhaite%20acheter%20le%20livre%20Je%20m'en%20vais%20sans%20ma%20promesse" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 bg-green-600 text-white px-4 py-3 rounded-lg font-medium hover:bg-green-700 transition-all shadow-lg"><MessageCircle size={20} /> Commander sur WhatsApp</a>
                   </div>
                 </div>
               </div>
