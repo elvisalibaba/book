@@ -73,7 +73,7 @@ export default function JonasMabaloIkiPage() {
                   />
                 </div>
                 <div className="mt-6 text-center md:text-left">
-                  <h1 className="font-serif text-3xl text-white">Jonas Mabalo Iki</h1>
+                  <h1 className="font-serif text-3xl text-white">Mabalo Iki Jonas</h1>
                   <p className="text-[#E50914] font-medium mt-1">Pasteur, Missiologue, Juriste</p>
                   <div className="mt-4 space-y-2 text-gray-300 text-sm">
                     <p>📍 Kampala, Ouganda</p>
@@ -108,7 +108,7 @@ export default function JonasMabaloIkiPage() {
               <div>
                 <h3 className="font-serif text-xl text-white mb-3">Portrait du leader</h3>
                 <p className="leading-relaxed">
-                  Pasteur missionnaire pour les Assemblées de Dieu du Congo auprès de l'Ouganda, Jonas Iki Mabalo dirige actuellement 
+                  Pasteur missionnaire pour les Assemblées de Dieu du Congo auprès de l'Ouganda, Mabalo Iki Jonas dirige actuellement 
                   La Borne Missionary Center à Kampala. Son parcours incarne le message holistique qu'il défend :
                 </p>
                 <ul className="list-disc list-inside mt-4 space-y-2 text-gray-300">
