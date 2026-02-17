@@ -49,7 +49,7 @@ const books = [
     genre: 'Spiritualité',
     image: '/images/04.jpg',
     amazonLink: 'https://a.co/d/02hqcBqUs',
-    whatsappLink: 'https://wa.me/243XXXXXXXX?text=Bonjour%2C%20je%20souhaite%20acheter%20le%20livre%20JE%20M’EN%20VAIS%20SANS%20MA%20PROMESSE',
+    whatsappLink: 'https://wa.me/243977602740?text=Bonjour%2C%20je%20souhaite%20acheter%20le%20livre%20JE%20M’EN%20VAIS%20SANS%20MA%20PROMESSE',
   },
   {
     title: 'Pensées Positives',
